@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=MOLDE
+GenericName=Molecular Library Generator
+Exec=/usr/bin/flatpak run io.github.MoschittoLab.MOLDE
+Type=Application
+Icon=io.github.MoschittoLab.MOLDE.svg
+Categories=Science;Chemistry;
+X-Flatpak=io.github.MoschittoLab.MOLDE
